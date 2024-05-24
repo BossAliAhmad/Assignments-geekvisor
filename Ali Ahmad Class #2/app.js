@@ -1,0 +1,1 @@
+alert("Your Computer Has Been Hacked");

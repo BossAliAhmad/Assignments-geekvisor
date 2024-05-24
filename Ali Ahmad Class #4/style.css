@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: azure;
+}
+h1 {
+    background-color: red;
+    box-sizing: border-box;
+    border: 1px solid blue;
+}
+
+.span1{
+    background-color: red;
+}
+
+.span2{
+    background-color: rgb(107, 81, 81);
+}
+
+#uniquespan {
+    background-color: black;
+}
+
+ul>li{
+    background-color: yellow;
+}
+
+h2+h3{
+    background-color: yellowgreen;
+}
+h5~p{
+    background-color: greenyellow;
+    color: black;
+}
